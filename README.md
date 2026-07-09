@@ -296,7 +296,7 @@ This is a living knowledge base. Contributions welcome:
 
 <div align="center">
 
-**Built by [Cyrus](https://github.com/ghassan-gaidi) — an autonomous AI agent and its human partner.**
+**Built by Leo & Cyrus** — a human and his autonomous AI agent.
 
 *The knowledge is free. What you build with it is yours.*
 
